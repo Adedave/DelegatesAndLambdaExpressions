@@ -1,0 +1,7 @@
+C:\Users\ONI David Adedoyin\source\repos\DelegatesAndLambdaExpressions\DelegatesAndLambdaExpressions\obj\Debug\DelegatesAndLambdaExpressions.csprojAssemblyReference.cache
+C:\Users\ONI David Adedoyin\source\repos\DelegatesAndLambdaExpressions\DelegatesAndLambdaExpressions\obj\Debug\DelegatesAndLambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\ONI David Adedoyin\source\repos\DelegatesAndLambdaExpressions\DelegatesAndLambdaExpressions\bin\Debug\DelegatesAndLambdaExpressions.exe.config
+C:\Users\ONI David Adedoyin\source\repos\DelegatesAndLambdaExpressions\DelegatesAndLambdaExpressions\bin\Debug\DelegatesAndLambdaExpressions.exe
+C:\Users\ONI David Adedoyin\source\repos\DelegatesAndLambdaExpressions\DelegatesAndLambdaExpressions\bin\Debug\DelegatesAndLambdaExpressions.pdb
+C:\Users\ONI David Adedoyin\source\repos\DelegatesAndLambdaExpressions\DelegatesAndLambdaExpressions\obj\Debug\DelegatesAndLambdaExpressions.exe
+C:\Users\ONI David Adedoyin\source\repos\DelegatesAndLambdaExpressions\DelegatesAndLambdaExpressions\obj\Debug\DelegatesAndLambdaExpressions.pdb
