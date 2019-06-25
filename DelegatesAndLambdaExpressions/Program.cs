@@ -14,6 +14,7 @@ namespace DelegatesAndLambdaExpressions
             Action<int, int> action = New;
             Func<int, int, string> func = Populate;
             Predicate<int> predicate = Compare;
+            //Creates a new PerformCalculation type
             PerformCalculation performCalculation = new PerformCalculation(Add);
             PerformCalculation perform = Add;
             perform += Multiply;
